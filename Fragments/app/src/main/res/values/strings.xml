@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name ="kaboom">Open another Application</string>
+    <string-array name="Name">
+        <item>Apple iPhone 11 Pro Max</item>
+        <item>LG G8 ThinQ</item>
+        <item>Samsung Note 10 Plus</item>
+        <item>OnePlus 7 Pro</item>
+        <item>Google Pixel 3XL</item>
+    </string-array>
+</resources>
