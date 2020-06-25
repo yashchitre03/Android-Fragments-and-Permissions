@@ -26,6 +26,6 @@ Refer:
 
 ---------------------------------------
 
-<img src="https://github.com/yashchitre03/Android-Fragments-and-Permissions/blob/master/landscape_fragments.png" alt="alt text" width="288" height="576">
+<img src="https://github.com/yashchitre03/Android-Fragments-and-Permissions/blob/master/landscape_fragments.png" alt="alt text" width="576" height="288">
 
 #### Landscape View
