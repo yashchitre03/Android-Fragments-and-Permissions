@@ -14,18 +14,18 @@ Refer:
 
 ​	Finally, the fragment application displays the data and gives an option to send intents to the first two applications (to perform function like opening the desired web link).
 
-<img src="https://github.com/yashchitre03/Map-It/blob/master/Screenshot_1.png" alt="alt text" width="288" height="576">
+<img src="https://github.com/yashchitre03/Android-Fragments-and-Permissions/blob/master/portrait_1.png" alt="alt text" width="288" height="576">
 
-#### First Application
+#### Portrait mode list
 
 -----------------------
 
-<img src="https://github.com/yashchitre03/Map-It/blob/master/Screenshot_2.png" alt="alt text" width="288" height="576">
+<img src="https://github.com/yashchitre03/Android-Fragments-and-Permissions/blob/master/portrait_2.png" alt="alt text" width="288" height="576">
 
-#### Second Application
+#### Portrait mode image data
 
 ---------------------------------------
 
-<img src="https://github.com/yashchitre03/Map-It/blob/master/Screenshot_3.png" alt="alt text" width="288" height="576">
+<img src="https://github.com/yashchitre03/Android-Fragments-and-Permissions/blob/master/landscape_fragments.png" alt="alt text" width="288" height="576">
 
-#### Fragment Application
+#### Landscape View
